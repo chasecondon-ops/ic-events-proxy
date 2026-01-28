@@ -4,3 +4,4 @@ exports.handler = async function () {
     body: JSON.stringify({ message: "Hello from Netlify Functions 👋" }),
   };
 };
+
